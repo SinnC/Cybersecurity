@@ -34,5 +34,8 @@ IMAGE with my Network Setting:
       b) Created a new VM
 
       c) Installed it as disc image file (iso)
+   
+
+Project 2. Build a Simulated Home Network - Using Cisco Packet Tracer on my own HOST workstation.
 
 
