@@ -21,7 +21,18 @@ Setting up Host Only Networks for easy isolation
                     I have added another Host only Network called VM Net 2 which i set as host only as this will be used for my second OS
                      I decided to leave DHCP ON as I wanted it to handle automatic IP generation although i could also enter a custome one.
 
+IMAGE with my Network Setting: 
+<img width="761" height="740" alt="VM Network Settings" src="https://github.com/user-attachments/assets/f69abc0a-8979-4ceb-a6f7-909015de7dde" />
 
 
+3) In order to be able to simulate routing between VLANs and subnets i will create another VM using a pfSense as the router
+        I have done all this in the following way:
+   Go to https://www.pfsense.org/download/
+
+      a) Download the ISO version (AMD64, CD Image).
+
+      b) Created a new VM
+
+      c) Installed it as disc image file (iso)
 
 
